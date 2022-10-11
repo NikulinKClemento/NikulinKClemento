@@ -1,4 +1,5 @@
-### Hi there 👋 Waiting for your job offer!
+### Hi there 👋 All my data analytics projects here) 
+Waiting for your job offer!
 
 <!--
 **NikulinKClemento/NikulinKClemento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
